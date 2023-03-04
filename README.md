@@ -1,7 +1,5 @@
 # Machine-Learning-PUCP
 
-Examne de Machine Learning  de InfoPucP. Las indicaciones del examen esta detallados en un documento pdf.
-
-Asi mismo,  se usara el feature selection boruta, ya que es útil en la selección de características en conjuntos de datos grandes y complejos, ya que puede identificar de manera eficiente las características relevantes y eliminar las características irrelevantes. 
-
-Esto puede mejorar la precisión y la eficiencia de los modelos de aprendizaje automático que se entrenan con esos datos.
+Se desarrollara los examnes del Curso de Capacitación en Introducción a Python para Machine Learning dictado por la PUCP. 
+Las indicaciones de los examenes esta detallados en cada carpeta. 
+En resumen, se resolvio 3 examenes que se abordaron dentro del programa y cada carpeta indica las indicaciones de los problemas planteados dentro del curso.
